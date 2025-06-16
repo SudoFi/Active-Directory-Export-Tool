@@ -1,11 +1,10 @@
-# PowerShell Active Directory Export Tool - w/GUI
+# PowerShell Active Directory Export Tool
 
 ## Short Description
 
 This is a simple but powerful PowerShell script that provides a Graphical User Interface (GUI) for exporting User, Group, and Organizational Unit (OU) objects from Active Directory. It's designed for system administrators who need a quick and easy way to generate reports in either CSV or XML format.
 
-![screenshot of the tool] 
-*(Pro-tip: Take a screenshot of your tool in action and replace this line with it! It helps people understand your project at a glance.)*
+![Screenshot of the AD Export Tool GUI](AD-Export-Tool-GUI.png)
 
 ---
 
